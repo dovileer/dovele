@@ -1,6 +1,5 @@
 ### Hi there, my name is Dovilė 👋
 
-<!--
 I'm an aspiring data analyst and for the last year I have been learning the nitty-gritty of data analysis using Python and SQL. Currently trying to find a company with strong data culture. 🌱
 
 I have domain knowledge in psychology, cognitive science, neuroscience and analytical philosophy. I am passionate about mental health, physical well-being, continuous learning and increasing digital literacy in my community.
@@ -19,4 +18,3 @@ Comparing click-through rate and other metrics between control and experimental 
 
 4. [Biomedical abstracts](https://github.com/dovele/personal-projects/tree/main/Medical-abstracts)
 This projects demonstrates how you can extract biomedical article information from an API and further use it for analysis.
--->
