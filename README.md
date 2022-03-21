@@ -16,5 +16,5 @@ This project is about portuguese Vinho Verde wine, sensory quality and other cha
 3. [A/B testing](https://github.com/dovele/personal-projects/blob/main/Udacity%20AB%20testing/A_B_testing_Udacity.ipynb)
 Comparing click-through rate and other metrics between control and experimental groups.
 
-4. [Biomedical abstracts](https://github.com/dovele/personal-projects/tree/main/Medical-abstracts)
+4. [Biomedical abstracts](https://github.com/dovele/personal-projects/tree/main/Medical-abstracts) (work in progress)
 This projects demonstrates how you can extract biomedical article information from an API and further use it for analysis.
