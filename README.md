@@ -4,7 +4,7 @@ I'm an aspiring data analyst and for the last year I have been learning the nitt
 
 I have domain knowledge in psychology, cognitive science, neuroscience and analytical philosophy. I am passionate about mental health, physical well-being, continuous learning and increasing digital literacy in my community.
 
-Areas of interest - NLP, cyber security, storytelling with data, data visualization.
+Areas of interest - NLP, cybersecurity, healthcare, storytelling with data, data visualization.
 
  ✨ My portfolio ✨
 1. [Podcasts reviews](https://github.com/dovele/personal-projects/blob/main/Podcast%20reviews/Podcast_Reviews.ipynb)
