@@ -2,7 +2,7 @@
 
 I'm an aspiring data analyst and for the last year I have been learning the nitty-gritty of data analysis using Python and SQL. Currently trying to find a company with strong data culture. 🌱
 
-I have domain knowledge in psychology, cognitive science, neuroscience and analytical philosophy. I am passionate about mental health, physical well-being, continuous learning and increasing digital literacy in my community.
+I have domain knowledge in psychology, cognitive science, neuroscience and analytical philosophy. I am passionate about continuous learning and increasing digital literacy in my community.
 
 Areas of interest - NLP, cybersecurity, healthcare, storytelling with data, data visualization.
 
